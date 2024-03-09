@@ -1,0 +1,124 @@
+CSV120000:
+	QUAD-TREE:
+		A-D 4 20-300:
+			Execution Time Results:
+			Build Time: 0.9043843746185303 seconds
+			Search Time: 0.024343490600585938 seconds
+			LSH Time: 32.33565616607666 seconds
+			Total Time: 35.60018968582153 seconds
+
+		G-J 3 10-150:
+			Execution Time Results:
+			Build Time: 0.9401652812957764 seconds
+			Search Time: 0.023972749710083008 seconds
+			LSH Time: 13.009424686431885 seconds
+			Total Time: 15.516877174377441 seconds
+	
+		K-O 6 30-700:
+			Execution Time Results:
+			Build Time: 0.9294548034667969 seconds
+			Search Time: 0.021001338958740234 seconds
+			LSH Time: 14.278383731842041 seconds
+			Total Time: 16.690993309020996 seconds
+
+		P-Z 9 5-84:
+			Execution Time Results:
+			Build Time: 0.9244744777679443 seconds
+			Search Time: 0.020006656646728516 seconds
+			LSH Time: 13.718915939331055 seconds
+			Total Time: 16.199838399887085 seconds
+
+-------------------------------------------------------------------------------------		
+
+	R-TREE:
+		A-D 4 20-300:
+			Execution Time Results:
+			Build Time: 1.97186279296875 seconds
+			Search Time: 0.08796286582946777 seconds
+			LSH Time: 34.48210000991821 seconds
+			Total Time: 44.32432579994202 seconds
+
+		G-J 3 10-150:
+			Execution Time Results:
+			Build Time: 2.0028586387634277 seconds
+			Search Time: 0.08297204971313477 seconds
+			LSH Time: 18.22633671760559 seconds
+			Total Time: 25.909072875976562 seconds
+
+		K-O 6 30-700:
+			Execution Time Results:
+			Build Time: 1.971285104751587 seconds
+			Search Time: 0.07795548439025879 seconds
+			LSH Time: 15.238615036010742 seconds
+			Total Time: 22.36363196372986 seconds
+
+		P-Z 9 5-84:
+			Execution Time Results:
+			Build Time: 1.9878606796264648 seconds
+			Search Time: 0.0739598274230957 seconds
+			LSH Time: 20.465118885040283 seconds
+			Total Time: 28.117918729782104 seconds
+
+-------------------------------------------------------------------------------
+
+	K-D:
+		A-D 4 20-300:
+			Execution Time Results:
+			Build Time: 0.6243717670440674 seconds
+			Search Time: 0.004984140396118164 seconds
+			LSH Time: 35.41442918777466 seconds
+			Total Time: 41.38446545600891 seconds
+
+		G-J 3 10-150:
+			Execution Time Results:
+			Build Time: 0.47373318672180176 seconds
+			Search Time: 0.0030095577239990234 seconds
+			LSH Time: 13.361419200897217 seconds
+			Total Time: 17.543025255203247 seconds
+
+		K-O 6 30-700:
+			Execution Time Results:
+			Build Time: 0.5134844779968262 seconds
+			Search Time: 0.003014802932739258 seconds
+			LSH Time: 14.13569688796997 seconds
+			Total Time: 18.55819344520569 seconds
+
+		P-Z 9 5-84:
+			Execution Time Results:
+			Build Time: 0.4947199821472168 seconds
+			Search Time: 0.0019953250885009766 seconds
+			LSH Time: 14.078138589859009 seconds
+			Total Time: 18.28585410118103 seconds
+-------------------------------------------------------------------------------
+
+    Range-TREE:
+
+		A-D 4 20-300:
+            Execution Time Results:
+			Build Time:  7.48089528083801 seconds    
+			Search Time: 0.004000186920166016 seconds
+			LSH Time: 29.308446407318115 seconds
+			Total Time: 36.793341875076291016 seconds
+
+		G-J 3 10-150:
+            Execution Time Results:
+			Build Time:  8.738220071792602 seconds    
+			Search Time: 0.005998849868774414 seconds
+			LSH Time: 9.046461343765259 seconds
+			Total Time: 17.790680265426635414 seconds
+
+		K-O 6 30-700:
+            Execution Time Results:
+			Build Time:  10.661993638203332 seconds
+			Search Time: 0.014018774032592773 seconds
+			LSH Time: 10.494415760040283 seconds
+			Total Time: 21.170428172276207773 seconds
+
+		P-Z 9 5-84:
+			Execution Time Results:
+			Build Time: 9.91045236587524 seconds
+	        Search Time: 0.0029990673065185547 seconds
+            LSH Time: 11.778656244277954 seconds
+			Total Time: 21.6921076774597125547 seconds
+
+
